@@ -22,25 +22,7 @@ Film App, TMDB API kullanarak geliştirilen, kullanıcıların film arayabildiğ
 - react-icons
 - react-firebase-hooks
 
-## 🖼️ Ekran Görüntüleri
-
-### Anasayfa
-![Anasayfa](public/screenshots/homepage.png)
-
-### Giriş Sayfası
-![Giriş](public/screenshots/login.png)
-
-### Kayıt Sayfası
-![Kayıt](public/screenshots/register.png)
-
-### Favoriler Sayfası
-![Favoriler](public/screenshots/favorites.png)
-
-### Detay Sayfası
-![Detay](public/screenshots/detail.png)
-
-### Arama Sonucu
-![Arama](public/screenshots/search.png)
+##
 
 ## 🔐 Giriş Gerektiren Sayfalar
 
